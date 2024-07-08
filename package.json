@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rlyle/serverless-aws-batch#readme",
   "dependencies": {
+    "@aws-sdk/client-batch": "^3.609.0",
     "bluebird": "^3.7.2",
     "cross-spawn": "^6.0.5",
     "fs-extra": "^7.0.1",
@@ -31,6 +32,5 @@
     "serverless": "^1.70.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.672.0"
   }
 }
